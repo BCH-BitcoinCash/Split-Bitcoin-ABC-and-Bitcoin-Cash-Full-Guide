@@ -48,4 +48,4 @@ Previously, businesses consistently mining Bitcoin Cash were prone to occasional
 ### Reliable network development
 A new coinbase rule will reinvest 8% of the coinbase reward into Bitcoin Cash infrastructure development. That means more technical talent can be hired to maintain and develop the network so it can better support your business moving forward.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BitcoinCashABC) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BCH-BitcoinCash) 
